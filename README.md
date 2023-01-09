@@ -1,7 +1,7 @@
 ## Node js Express Mongoose Rest API Development.
 ### CRUD API Development
 
-Note : First your need to create your own database and collection with valid schema as created in our project modal then add your connection string in .env file varialbe . then run the project.
+Note : First your need to create your own database and collection with valid schema as created in our project modal then add your connection string in .env file varialbe. After that run the project will run for you.
 
 Follow the steps below to run this project :
 
